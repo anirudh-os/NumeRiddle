@@ -24,6 +24,7 @@ fn main() {
 
         println!("Your guess is {guess}");
 
+        //Similar to 'switch' statement
         match guess.cmp(&secret_number) {
             Ordering::Less => println!("Your guess is lesser than the secret number!"),
             Ordering::Greater => println!("Your guess is greater than the secret number!"),

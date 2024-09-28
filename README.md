@@ -29,8 +29,8 @@ Follow the instructions displayed in the terminal to play.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to Num Guesser, please fork the repository and create a pull request with your proposed changes.
+Contributions are welcome! If you'd like to contribute to Numeriddle, please fork the repository and create a pull request with your proposed changes.
 
 ## Acknowledgments
 
-- This project was created as a learning exercise in Rust programming, following exercises and examples from "The Book" (officially known as "Programming Rust: Fast, Safe Systems Development" by Jim Blandy and Jason Orendorff).
+- This project was created as a learning exercise in Rust programming, following exercises and examples from "The Book" 
